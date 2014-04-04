@@ -8,9 +8,7 @@ Features
 * It must start automaticaly
 * It must be autonomous
 * It can be monitored on the network
-
-
-Scripts will download music from a list of trusted quality sources.
+* Automatic download music
 
 
 Requirements
