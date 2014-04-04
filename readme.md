@@ -14,7 +14,7 @@ Features
 Requirements
 ====
 * Rpi Model B
-* USB FM Transmitter
+* USB FM Transmitter - http://www.dx.com/p/rechargeable-0-7-lcd-display-fm-transmitter-w-3-5mm-plug-black-silver-234959
 * Python
 * Php ?
 * Mysql ?
