@@ -14,6 +14,6 @@ Features
 Requirements
 ====
 * Python
-* Php
+* Php ?
 * Mysql ?
 * XBMC distrib
