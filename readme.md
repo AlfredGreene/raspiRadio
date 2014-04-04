@@ -1,6 +1,21 @@
-RaspberryPi Radio !!
+RaspberryPi Radio
 ====
 
 A set of tools to non-stop-stream / FM broadcast music.
 
-It's using XBMC distrib
+Features
+====
+* It must start automaticaly
+* It must be autonomous
+* It can be monitored on the network
+
+
+Scripts will download music from a list of trusted quality sources.
+
+
+Requirements
+====
+* Python
+* Php
+* Mysql ?
+* XBMC distrib
