@@ -13,6 +13,8 @@ Features
 
 Requirements
 ====
+* Rpi Model B
+* USB FM Transmitter
 * Python
 * Php ?
 * Mysql ?
