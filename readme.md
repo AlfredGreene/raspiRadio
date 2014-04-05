@@ -18,4 +18,4 @@ Requirements
 * Python
 * Php ?
 * Mysql ?
-* XBMC distrib
+* XBMC distrib - http://www.raspberrypi.org/downloads/
