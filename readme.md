@@ -19,3 +19,4 @@ Requirements
 * Php ?
 * Mysql ?
 * XBMC distrib - http://www.raspberrypi.org/downloads/
+* RaspBmc : http://www.raspbmc.com/wiki/technical/ (this one)
