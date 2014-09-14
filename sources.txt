@@ -7,13 +7,24 @@ The brain radio
 * http://www.thebrainradio.com/playlists.php
 
 Le laboratoire.be
-* http://www.lelaboratoire.be/
+* 	http://www.lelaboratoire.be/
 
 Empilements
 * http://empilements.incongru.org/
 
 Ouidire
 * http://www.ouiedire.net/
+- Liste des emissions : http://www.ouiedire.net/
+* http://cdn.ouiedire.net/assets/emission/ailleurs-65/ouiedire_ailleurs-65_gakona_demantelement.mp3
+
 
 This is radio radioclash
 * http://www.thisisradioclash.org/
+- Liste  : http://www.thisisradioclash.org/listen.php
+- Url    : http://www.thisisradioclash.org/mp3/thisisradioclash092-Les-dinosaures.mp3
+
+
+
+8bitpeoples (whynot)
+ * http://www.8bitpeoples.com/discography?show=all
+ - Liste : http://www.8bitpeoples.com/discography?show=all
